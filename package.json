@@ -41,6 +41,7 @@
   },
   "homepage": "https://github.com/AlreadyBored/node-nodejs-basics#readme",
   "devDependencies": {
-    "@types/node": "^20.11.7"
+    "@types/node": "^20.11.7",
+    "cross-env": "^7.0.3"
   }
 }
